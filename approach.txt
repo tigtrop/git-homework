@@ -40,4 +40,10 @@ Cypress focuses on making the testing process easier and more efficient by provi
 One notable feature of Cypress is its ability to execute tests directly within the browser. 
 This enables real-time interactive testing and allows developers to observe and debug their applications as the tests are being executed. 
 Cypress also provides automatic waiting and retrying mechanisms, which ensure that tests wait for elements to appear on the page before interacting with them, 
-eliminating the need for explicit timeouts or delays.
+eliminating the need for explicit timeouts or delays. 
+
+Install Cypress via npm:
+
+cd /your/project/path
+
+npm install cypress --save-dev
