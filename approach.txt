@@ -49,3 +49,10 @@ Additionally, Cypress provides built-in time-travel debugging, which allows deve
 
 Overall, Cypress simplifies the process of creating and maintaining end-to-end tests for web applications, providing an efficient and powerful framework for testing modern web development stacks. 
 To be continued.
+
+Install Cypress via npm:
+
+cd /your/project/path
+
+npm install cypress --save-dev
+
